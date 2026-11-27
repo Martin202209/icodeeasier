@@ -16,6 +16,10 @@
 // @grant        GM_xmlhttpRequest
 // @connect      oj.youdao.com
 // @run-at       document-start
+// @homepageURL  https://github.com/Martin202209/icodeeasier
+// @supportURL   https://github.com/Martin202209/icodeeasier/issues
+// @downloadURL  https://cdn.jsdelivr.net/gh/Martin202209/icodeeasier@main/icode-oneclick-publish.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/Martin202209/icodeeasier@main/icode-oneclick-publish.user.js
 // ==/UserScript==
 
 (async function () {
