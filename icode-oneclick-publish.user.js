@@ -3,7 +3,7 @@
 // @namespace    icode-admin-ext
 // @version      0.4.36
 // @description  在「做题情况」页导出按钮旁加一个「发下一题」，并把学员表格的「有道ID」挪到最后一列、「学生昵称」挪到倒数第二列
-// @author       小云
+// @author       有道张老师
 // @match        https://icode-admin.youdao.com/*
 // @match        https://icode-admin-ext.youdao.com/*
 // @match        https://oj.youdao.com/wap/studyingReport/*
